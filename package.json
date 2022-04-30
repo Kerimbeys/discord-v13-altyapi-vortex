@@ -1,12 +1,12 @@
 {
-  "name": "v13altyapigelismis",
+  "name": "v13altyapi",
   "version": "1.0.0",
-  "description": "thegears",
+  "description": "erensenel",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "thegears",
+  "author": "erensenel",
   "license": "ISC",
   "dependencies": {
     "@discordjs/rest": "^0.3.0",
