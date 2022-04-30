@@ -10,4 +10,4 @@ discord.js v13 Gelişmiş Altyapı
 
 ## Her botu başlattığınızda Slash Komutlar güncellenir.
 
-## [Buraya tıklayarak kodlar paylaştığım sunucuya gidebilirsiniz.](https://discord.gg/Pur3RnGua2)
+## [Buraya tıklayarak kodlar paylaştığım sunucuya gidebilirsiniz.](https://discord.gg/vj86Nq48Pj)
